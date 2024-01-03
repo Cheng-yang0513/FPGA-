@@ -2,18 +2,23 @@
 ![image](https://github.com/Cheng-yang0513/FPGA-/assets/68553170/d62c8e73-b3b3-41b8-82d3-2e7763ec5832)
 
 藍色指撥開關：輸入密碼
+
 紅色指撥開關：正確密碼
 
 ![image](https://github.com/Cheng-yang0513/FPGA-/assets/68553170/6ef7e5e5-93c0-497d-9a82-21eaf4402a1d)
 
 D1:設定燈號
+
 D2:正確或錯誤燈號
+
 D3~D6:正確密碼的燈號
 
 ![image](https://github.com/Cheng-yang0513/FPGA-/assets/68553170/b66a2449-f551-4551-a97b-a561701f673d)
 
 BEEP:蜂鳴器，答對會發出聲音
+
 S1:設定鍵
+
 S2:解鎖鍵
 
 FPGA CODE
