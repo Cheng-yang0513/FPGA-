@@ -22,7 +22,7 @@ S1:設定鍵
 S2:解鎖鍵
 
 FPGA CODE
-
+```
 module	lab(
 
 	input		[3:0] setting_password, 	//輸入設定密碼
@@ -113,4 +113,4 @@ always @(setting,unlock)
 	
 endmodule
 
-
+```
